@@ -4,7 +4,7 @@ import 'package:todoapp/core/components/custom_button.dart';
 import 'package:todoapp/core/components/custom_text_field.dart';
 import 'package:todoapp/features/Auth/cubit/auth_cubit.dart';
 import 'package:todoapp/features/Auth/cubit/user_state.dart';
-import 'package:todoapp/features/Home/home_screen.dart';
+import 'package:todoapp/features/Home/view/screens/home_screen.dart';
 
 class RegisterScreen extends StatelessWidget {
   const RegisterScreen({super.key});
